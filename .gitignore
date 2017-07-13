@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/build
+/captures
+build/*
+app/build/*
+.gradle/*
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+.idea/*
+app/app.iml
+PhysicsAnimationsDemo.iml
+android.iml

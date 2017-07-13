@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Physics Animations Demo</string>
+    <string name="friction">Fling Friction\n%.1f</string>
+    <string name="stiffness">Spring Stiffness\n%.1f</string>
+    <string name="damping">Spring Damping\n%.1f</string>
+    <string name="spring_back">Spring Back</string>
+</resources>
